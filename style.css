@@ -1,0 +1,32 @@
+/*alinhamentos*/
+
+header{
+    text-align: center;
+    background-color: lightsteelblue;
+}
+
+main{
+    text-align: center;
+}
+
+footer{
+    background-color: lightsteelblue;
+}
+
+/*tamanhos*/
+
+.kanye{
+    width: 150px;
+}
+
+.freddy{
+    width: 300px;
+}
+
+.kogos{
+    width: 200px;
+}
+
+.instagram{
+    width: 100px;
+}
